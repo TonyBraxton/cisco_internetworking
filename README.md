@@ -11,7 +11,7 @@ This project involves designing and implementing a complex network topology with
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ## Key Objectives
 - Design an optimized VLSM addressing scheme based on provided subnet requirements.
